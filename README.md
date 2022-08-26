@@ -1,25 +1,26 @@
-Hello there 👋🏻
-==================================================================================================
+Hello there 👋
+--------------------------------------------------------------------------------------------------
+> 
 
 ### About Me
-
-### Current Projects
-
-### Past Projects
-
-### Upcoming Projects
-
-### Tech I Use
-![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.3-red?style=for-the-badge&logo=IntelliJ%20IDEA)
-![VSCode](https://img.shields.io/badge/VSCode-1.67-blue?style=for-the-badge&logo=visualstudiocode)
-
-### Contact
-Discord: `octopoda#4413`<br>
-Email: `bella.wang.10@gmail.com`
 --------------------------------------------------------------------------------------------------
 
-### Some Stats
 
+### Current Projects
+--------------------------------------------------------------------------------------------------
+
+### Past Projects
+--------------------------------------------------------------------------------------------------
+
+### Tech I Use
+--------------------------------------------------------------------------------------------------
+![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.1-red?style=for-the-badge&logo=IntelliJ%20IDEA)
+![VSCode](https://img.shields.io/badge/VSCode-1.70-blue?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&message=bella7898&color=181717&style=for-the-badge&logo=github)
+![Discord](https://img.shields.io/badge/Discord-octopoda4413-informational?style=for-the-badge&logo=Discord)
+
+### STATS
+--------------------------------------------------------------------------------------------------
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
