@@ -15,7 +15,7 @@ Hello there 👋🏻
 
 ### Contact
 Discord: `octopoda#4413`<br>
-Email: `dev.vincent.qi@outlook.com`
+Email: `bella.wang.10@gmail.com`
 --------------------------------------------------------------------------------------------------
 
 ### Some Stats
