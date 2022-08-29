@@ -8,7 +8,7 @@ Hello there 👋
 
 ##Current Projects
 ---
-[`Project Number 2: Cheesy Chess`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A basic chess analysis program using JavaFX.
+[`Project Number 2: Cheesy Chess`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A simple chess analysis/opening explorer program using JavaFX.
 
 ##Past Projects
 ---
