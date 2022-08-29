@@ -9,13 +9,16 @@ Hello there 👋
 ##Current Projects
 ---
 [`Project Number 2: Cheesy Chess`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A simple chess analysis/opening explorer program using JavaFX.
-[`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog. Check out my most recent post: 
+
+[`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog.
+
 [`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club.
 
 ##Past Projects
 ---
 
 [`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
+
 [`friendsBook`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2) assignment for programming 11, JavaFx program for maintaining friends.
 
 ##Tech I Use
