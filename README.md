@@ -8,11 +8,12 @@ Hello there 👋
 
 ##Current Projects
 ---
+[`Project Number 2: Cheesy Chess`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A basic chess analysis program using JavaFX.
 
 ##Past Projects
 ---
 
-[`chromexe`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
+[`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
 
 ##Tech I Use
 ---
