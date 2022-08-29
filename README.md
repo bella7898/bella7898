@@ -10,7 +10,8 @@ Hello there 👋
 ---
 
 ##Past Projects
-`[chromexe](https://github.com/bella7898/chromexe)` a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
+
+[`chromexe`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
 
 ##Tech I Use
 ---
