@@ -19,7 +19,6 @@ Hello there 👋
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.1-red?style=for-the-badge&logo=IntelliJ%20IDEA)
 ![VSCode](https://img.shields.io/badge/VSCode-1.70-blue?style=for-the-badge&logo=visualstudiocode)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=bella7898&color=181717&style=for-the-badge&logo=github)
-![Discord](https://img.shields.io/badge/Discord-octopoda4413-informational?style=for-the-badge&logo=Discord)
 
 ##STATS
 ---
