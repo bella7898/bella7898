@@ -1,25 +1,24 @@
 Hello there 👋
 ---
-> 
+Welcome to my profile! 
 
 ##About Me
 ---
-
+I am a Canadian high school student who enjoys playing soccer, chess and listening to music. I like to code in my free time and take on projects too difficult for my skill set, in particular. I love making my life more difficult, since it reminds me to be happy when I am not coding. If you're here, you probably know me IRL. In that case, go away. 
 
 ##Current Projects
 ---
-[`Project Number 2: Cheesy Chess`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A simple chess analysis/opening explorer program using JavaFX.
-
 [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog.
 
-[`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club.
+[`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club. Hosted on Heroku.
+
+[`justajsbot & justapybot`] test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
 
 ##Past Projects
 ---
-
-[`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
-
-[`friendsBook`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2) assignment for programming 11, JavaFx program for maintaining friends.
+- [`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
+- [`friendsBook`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2) an assignment for my online programming course @ VLN. A simple JavaFx program for maintaining friends.
+- [`project number 2`](https://github.com/bella7898/bella-programming11-hand-in/tree/main/FriendsBookPart2/src/main/java/com/example/friendsbookpart2) final submission to my online programming course @ VLN. A simple game library/opening explorer program using JavaFX.
 
 ##Tech I Use
 ---
