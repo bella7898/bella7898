@@ -12,7 +12,7 @@ I am a Canadian high school student who enjoys playing soccer, chess and listeni
 
 [`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club. Hosted on Heroku.
 
-[`justajsbot & justapybot`] test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
+[`justajsbot & justapybot`]() test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
 
 ##Past Projects
 ---
