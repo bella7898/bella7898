@@ -4,7 +4,7 @@ Welcome to my profile!
 
 ##About Me
 ---
-I am a Canadian high school student who enjoys playing soccer, chess and listening to music. I like to code in my free time and take on projects too difficult for my skill set, in particular. I love making my life more difficult, since it reminds me to be happy when I am not coding. If you're here, you probably know me IRL. In that case, go away. 
+I am a Canadian high school student who enjoys playing soccer, chess and listening to music.
 
 ##Current Projects
 ---
