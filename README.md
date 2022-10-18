@@ -8,11 +8,11 @@ I am a Canadian high school student who enjoys playing soccer, chess and listeni
 
 ##Current Projects
 ---
-[`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog.
+- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog.
 
-[`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club. Hosted on Heroku.
+- [`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club. Hosted on Heroku.
 
-[`justajsbot & justapybot`]() test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
+- [`justajsbot & justapybot`]() test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
 
 ##Past Projects
 ---
