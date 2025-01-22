@@ -10,13 +10,13 @@ Welcome to my profile! My name is Bella and I'm a first year engineering student
 ---
 - [`eduAI`](https://github.com/Hitigome/nwhacks2025) a next.js web app that can summarize your notes using the Gemini API. This project was built in 24 hours for nwHacks 2025 :)
 
-- [`sergeantdog`](https://github.com/bella7898/sergeantdog) a mobile application designed to show the amount of crime in Vancouver. This was a submission for VSHacks 2023!
+- [`sergeantdog`](https://github.com/bella7898/sergeantdog) a mobile application using Expo Go designed to show the amount of crime in Vancouver. This was a submission for VSHacks 2023!
 
 - [`spam sense AI`](https://github.com/bella7898/spam-sense-ai) a flask web app that can detect if messages are spam or ham. Built after training the model. You can find the model on [`huggingface`](https://huggingface.co/BW7898/spam_message_classification).
   
 - [`moscrop chess`](https://github.com/bella7898/moscropchess) vanilla website for my chess club with cool background parallax effect.
 
-- [`hearts of love`](https://github.com/bella7898/heartsoflove) volunteered as a web developer for hearts of love and developed this website using React. 
+- [`hearts of love`](https://github.com/bella7898/heartsoflove) volunteered as a web developer for hearts of love and developed this website using React following an existing UI design. 
 
 - [`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
 
