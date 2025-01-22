@@ -6,9 +6,7 @@ Welcome to my profile! My name is Bella and I'm a first year engineering student
 ---
 - [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) portfolio/personal blog.
 
-- [`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club. Hosted on Heroku.
-
-- [`justajsbot & justapybot`]() test bots w JavaScript and Python, respectively. Latter hosted on Heroku.
+- [`chessbot`](https://github.com/bella7898/chessbot) a discord.py bot for my chess club.
 
 - [`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
 
