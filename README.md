@@ -23,7 +23,7 @@ Welcome to my profile! My name is Bella and I'm a first year engineering student
 ##Tech I Use
 ---
 ![VSCode](https://img.shields.io/badge/VSCode-1.70-blue?style=for-the-badge&logo=visualstudiocode)
-![Expo Go](https://img.shields.io/badge/ExpoGo-pink?style=for-the-badge&logo=expo)
+![Expo Go](https://img.shields.io/badge/ExpoGo-6.3.8-orange?style=for-the-badge&logo=expo)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=bella7898&color=181717&style=for-the-badge&logo=github)
 
 ##STATS
