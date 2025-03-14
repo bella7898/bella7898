@@ -4,10 +4,12 @@ Welcome to my profile! My name is Bella and I'm a first year engineering student
 
 ##Current Project
 ---
-- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) Haven't gotten around to this yet, but hopefully will have a personal portfolio/website soon!
+- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) my personal website, yay!
 
 ##Past Projects
 ---
+- [`Dream Travels`](https://github.com/preethi-ca/cmd-f) a react web app that can help you plan your dream travels. This project was built in 24 hours for cmd-f 2025 :)
+
 - [`eduAI`](https://github.com/Hitigome/nwhacks2025) a next.js web app that can summarize your notes using the Gemini API. This project was built in 24 hours for nwHacks 2025 :)
 
 - [`sergeantdog`](https://github.com/bella7898/sergeantdog) a mobile application using Expo Go designed to show the amount of crime in Vancouver. This was a submission for VSHacks 2023!
