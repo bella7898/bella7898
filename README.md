@@ -1,6 +1,6 @@
 Hey there, nice to meet you! 👋
 ---
-Welcome to my profile! My name is Bella and I'm a first year engineering student at UBC. I enjoy working on coding projects and participating at hackathons! Some of my other hobbies include playing chess, pickleball, and taking long walks outdoors. 
+Welcome to my profile! My name is Bella and I'm a second year engineering student at UBC. I enjoy working on coding projects and participating at hackathons! Some of my other hobbies include playing chess, pickleball, and taking long walks outdoors. 
 
 ##Current Projects
 ---
