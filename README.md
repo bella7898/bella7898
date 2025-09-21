@@ -4,6 +4,7 @@ Welcome to my profile! My name is Bella and I'm a second year engineering studen
 
 ##Current Projects
 ---
+- [`subbots-simulator`](https://github.com/bella7898/sound-localization-simulator) sound localization simulator
 - [`party-chess`](https://github.com/bella7898/party-chess) A mobile chess.com clone with fun variations
 - [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) my personal website, yay!
 
