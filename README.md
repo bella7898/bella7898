@@ -1,14 +1,17 @@
-Hey there, nice to meet you! 👋
+Hey, I'm @bella7898! 👋
 ---
-Welcome to my profile! My name is Bella and I'm a second year engineering student at UBC. I enjoy working on coding projects and participating at hackathons! Some of my other hobbies include playing chess, pickleball, and taking long walks outdoors. 
+- I'm a second year engineering student at the University of British Columbia
+- I interested to learn more about hardware programming and machine learning
+- I'm currently working on improving the Python simulator on the UBC Subbots sound localization team
+- You can often find me playing squash, badminton, and chess. 
 
-##Current Projects
+Current Projects
 ---
 - [`subbots-simulator`](https://github.com/bella7898/sound-localization-simulator) sound localization simulator
 - [`party-chess`](https://github.com/bella7898/party-chess) A mobile chess.com clone with fun variations
-- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) my personal website, yay!
+- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) 
 
-##Past Projects
+Past Projects
 ---
 - [`Dream Travels`](https://github.com/preethi-ca/cmd-f) a react web app that can help you plan your dream travels. This project was built in 24 hours for cmd-f 2025 :)
 
@@ -24,13 +27,13 @@ Welcome to my profile! My name is Bella and I'm a second year engineering studen
 
 - [`chromexe: Focus Focus`](https://github.com/bella7898/chromexe) a chrome extension designed to help students stay on task by blocking distracting websites. Won Most Practical Award at VSHacks 2022.
 
-##Tech I Use
+Tech I Use
 ---
 ![VSCode](https://img.shields.io/badge/VSCode-1.70-blue?style=for-the-badge&logo=visualstudiocode)
 ![Expo Go](https://img.shields.io/badge/ExpoGo-6.3.8-orange?style=for-the-badge&logo=expo)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=bella7898&color=181717&style=for-the-badge&logo=github)
 
-##STATS
+STATS
 ---
 <table>
   <tr>
