@@ -1,15 +1,18 @@
 Hey, I'm @bella7898! 👋
 ---
-- I'm a second year engineering student at the University of British Columbia
-- I interested to learn more about hardware programming and machine learning
-- I'm currently working on improving the Python simulator on the UBC Subbots sound localization team
-- You can often find me playing squash, badminton, and chess. 
+- I'm a second year engineering student at UBC
+- Interested about hardware design, programming, and machine learning
+- Currently working on improving the Python simulator on the UBC Subbots sound localization team
+- You can often find me playing squash, badminton, and chess♟️
+
+- P.S. I'm looking for a Summer internship!
+- How to reach me [`bella.wang.10@gmail.com`](mailto:bella.wang.10@gmail.com)
 
 Current Projects
 ---
 - [`subbots-simulator`](https://github.com/bella7898/sound-localization-simulator) sound localization simulator
-- [`party-chess`](https://github.com/bella7898/party-chess) A mobile chess.com clone with fun variations
-- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) 
+- [`party-chess`](https://github.com/bella7898/party-chess) mobile chess.com clone with fun variations
+- [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) personal website
 
 Past Projects
 ---
