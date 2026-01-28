@@ -2,7 +2,7 @@ Hey, I'm @bella7898! 👋
 ---
 - I'm a second year engineering student at UBC
 - Interested about hardware design, programming, and machine learning
-- Currently working on improving the Python simulator on the UBC Subbots sound localization team
+- Currently working on an analog phase acquisition project on the UBC Subbots sound localization team, previously helped improve the exisiting Python simulator.
 - You can often find me playing squash, badminton, and chess♟️
 
 - P.S. I'm looking for a Summer internship!
@@ -10,12 +10,11 @@ Hey, I'm @bella7898! 👋
 
 Current Projects
 ---
-- [`subbots-simulator`](https://github.com/bella7898/sound-localization-simulator) sound localization simulator
-- [`party-chess`](https://github.com/bella7898/party-chess) mobile chess.com clone with fun variations
 - [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) personal website
 
 Past Projects
 ---
+- [`Sound Localization Simulator`](https://github.com/FarazF05/UBC-Subbots-Sound-Loccalization-Simulator) a sound localization simulator that can calculate phase differences and apply Gauss-Newton optimization to determine the location of a pinger. 
 - [`Dream Travels`](https://github.com/preethi-ca/cmd-f) a react web app that can help you plan your dream travels. This project was built in 24 hours for cmd-f 2025 :)
 
 - [`eduAI`](https://github.com/Hitigome/nwhacks2025) a next.js web app that can summarize your notes using the Gemini API. This project was built in 24 hours for nwHacks 2025 :)
