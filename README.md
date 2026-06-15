@@ -1,15 +1,15 @@
 Hey, I'm @bella7898! 👋
 ---
-- I'm a second year engineering student at UBC
+- I'm a third year Electrical Engineering student at UBC
 - Interested about hardware design, programming, and machine learning
-- Currently working on an analog phase acquisition project on the UBC Subbots sound localization team, previously helped improve the exisiting Python simulator.
+- Currently working on an ADC interface for the DE10Lite FPGA board on the UBC Subbots Sound Localization subteam
 - You can often find me playing squash, badminton, and chess♟️
 
-- P.S. I'm looking for a Summer internship!
 - How to reach me [`bella.wang.10@gmail.com`](mailto:bella.wang.10@gmail.com)
 
 Current Projects
 ---
+- [`DE10Lite ADC interface`](https://github.com/bella7898/SL_ADC_DE10Lite) building a PCB for our sound localization system using the DE10 Lite FPGA board
 - [`bella7898.github.io`](https://github.com/bella7898/bella7898.github.io) personal website
 
 Past Projects
